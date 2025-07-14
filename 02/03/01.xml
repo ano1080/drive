@@ -12,6 +12,36 @@
 </channel>
 
 <channel>
+<name>Kung Fu Panda: Lendas do Dragão Guerreiro</name>
+<year>2011</year>
+<genre>Ação e Aventura, Animação, Comédia, Ficção Científica e Fantasia, Infantil</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/7CkxiPPIQSf0OmOPvEeBAmRz5dd.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yQ2ke3rpDxZm6NcIRIs4LPhjXi7.jpg</fanart>
+<info>Kung Fu Panda: Lendas do Dragão Guerreiro conta as aventuras do panda Po enquanto ele protege, ensina, aprende, tropeça e fala demais como o novo herói do Vale da Paz em sua residência permanente com os Cinco Furiosos.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/39898/39898-menu.xml</externallink>
+</channel>
+
+<channel>
+<name>One-Punch Man</name>
+<year>2015</year>
+<genre>Animação, Comédia, Ação e Aventura</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/oJB3QgMxb6ABdVI3iVMZSyAyDx7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iiGtoYxmKFq85i0C196veQJtyVB.jpg</fanart>
+<info>Tudo sobre um jovem chamado Saitama parece mediano, sua expressão sem vida, sua cabeça calva e físico inexpressivo. No entanto, este homem de aparência comum não tem um problema comum... Ele é um super-herói que está à procura de adversários difíceis! O problema é que toda vez que ele encontra um candidato promissor ele o derrota com um soco. Saitama encontrará um vilão forte o suficiente para desafiá-lo? Siga Saitama através de suas aventuras hilariantes enquanto ele procura por novos bandidos para desafiar!</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/63926/63926-menu.xml</externallink>
+</channel>
+
+<channel>
+<name>Batman: Cruzado Encapuzado</name>
+<year>2025</year>
+<genre>Animação, Crime, Ação e Aventura</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/dkiWTQbXq2MOqlYFqAcZn5pGae0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zwocf2Q0UAcwBJ5Ck6oMxY5sJAR.jpg</fanart>
+<info>Bem-vindos a Gotham City, o lugar onde os criminosos correm soltos e os cidadãos de bem vivem em constante estado de medo. Forjado no fogo da tragédia, o socialite bilionário Bruce Wayne se torna algo que é mais e menos do que humano: o BATMAN. Sua guerra de um homem só contra o crime atrai aliados de dentro do Dep. de Polícia e da Prefeitura, mas suas ações heroicas geram ramificações mortais.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/125909/125909.xml</externallink>
+</channel>
+
+<channel>
 <name></name>
 <year>2025</year>
 <genre></genre>
