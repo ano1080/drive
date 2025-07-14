@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
-
 <channel>
-<name>Chespirito: Sem Querer Querendo</name>
-<year>2025</year>
-<genre>Drama, Comédia</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/nNicd3JYAjbbo93WCpgBc6UJzrF.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/y8tPZ9P4tYqYiACs6t4mlcWJnSC.jpg</fanart>
-<info>Uma jornada pela ascensão à fama do Roberto Gómez Bolaños, mais conhecido como Chespirito, o artista que criou os personagens icônicos “Chaves”, “Chapolin” e muitas outras histórias e bordões que conquistaram o coração de milhões.</info>
-<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/279060/279060.xml</externallink>
-</channel>
-
-<channel>
-<name>Dexter: Ressurreição</name>
-<year>2025</year>
-<genre>Crime, Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/wG6GBTreXHoBhxsFY4vVSQtYey5.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg</fanart>
-<info>Depois de ser baleado por seu filho Harrison, Dexter acorda do coma e descobre que ele está desaparecido. Ele o procura em Nova York para se reconciliar, mas Batista chega com perguntas do passado.</info>
-<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/259909/259909-01.xml</externallink> 
+<name>Love, Death & Robots</name>
+<year>2019</year>
+<genre>Animação, ficção científica e fantasia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/asDqvkE66EegtKJJXIRhBJPxscr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nBrkOZyI75artyizuBFeya48KbO.jpg</fanart>
+<info>Criaturas aterrorizantes, surpresas bizarras e humor ácido habitam e florescem de cada um dos vários universos únicos criados para essa coletânea de curtas de animação, em que cada episódio apresenta sua própria narrativa e estilo visual.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/86831/86831-menu.xml</externallink>
 </channel>
 
 <channel>
