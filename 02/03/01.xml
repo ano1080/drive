@@ -92,6 +92,26 @@
 </channel>
 
 <channel>
+<name>Rick e Morty</name>
+<year>2013</year>
+<genre>Animação, Comédia, Ficção Científica e Fantasia, Ação e Aventura</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg</fanart>
+<info>Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espaço e em universos alternativos. Compostos à vida familiar já instável de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/60625/60625-menu.xml</externallink>
+</channel>
+
+<channel>
+<name>Jujutsu Kaisen</name>
+<year>2020</year>
+<genre>Animação, Ação e Aventura, Ficção Científica e Fantasia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wwTjrRb0HG9sd87EDAn6ZbvxQGX.jpg</fanart>
+<info>Sofrimento, arrependimento, vergonha: os sentimentos negativos dos humanos tornam-se Maldições, causando terríveis acidentes que podem levar até mesmo à morte. E pra piorar, Maldições só podem ser exorcizadas por outras Maldições. Certo dia, para salvar amigos que estavam sendo atacados por Maldições, Yuji Itadori engole o dedo do Ryomen-Sukuna, absorvendo sua Maldição. Ele então decide se matricular no Colégio Técnico de Feitiçaria de Tóquio, uma organização que combate as Maldições... e assim começa a heróica lenda do garoto que tornou-se uma Maldição para exorcizar uma Maldição.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/95479/95479-menu.xml</externallink>
+</channel>
+
+<channel>
 <name></name>
 <year>2025</year>
 <genre></genre>
