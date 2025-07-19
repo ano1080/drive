@@ -54,13 +54,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>M3GAN</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Ficção científica, Terror</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/yHDAuqtZen92A6GQkDpdP65d51l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kpIgG6CDUaLSkJUHgPp3CGSe59h.jpg</fanart>
+<info>A series of sci-fi/horror films about an artificially intelligent killer doll.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/01/04/1071588.xml</externallink>
 </channel>
 
 <channel>
