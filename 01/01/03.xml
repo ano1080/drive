@@ -2,12 +2,16 @@
 <items> <!-- FILMES DE AÇÃO -->
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Impiedoso</title>
+<year>2023</year>
+<genre>Ação, Thriller</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/dCfbxEVuRS10ybnNvntT95KfnLO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kSdIVZu7Cv60o9hTbKBzcTrbMX8.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-984249-FHD.mkv$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-984249-HD.mkv$$lsname= ASSISTIR EM HD</link> 
+<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-984249.mkv$$lsname= ASSISTIR TRAILER</link>    
+<info>Um treinador de uma escola secundária, cuja filha adolescente foi assassinada, decide resolver o problema com suas próprias mãos, perseguindo os homens que sequestram suas alunas para uma operação de tráfico sexual.</info>
 </item>
 
 <item>
