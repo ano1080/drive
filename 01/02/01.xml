@@ -1,211 +1,331 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<items> <!-- FILMES DE SUPER-HERÓI -->
+<items> <!-- FILMES DE ANIMAÇÃO -->
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Moana 2</title>
+<year>2024</year>
+<genre>Animação, Aventura, Família, Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/A1NUWVjoKzWzOdGE01NHquyubkx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1241982-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1241982-3D.mkv?cnt=0$$lsname= ASSISTIR EM BLU-RAY 3D</link> 
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1241982-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1241982-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1241982-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04251bec1182aae17d885b85c6fa862f53286d71$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1241982.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Depois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.</info>
 </item>
 
 <item>
-<title></title>
+<title>Moana: Um Mar de Aventuras</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Aventura, Comédia, Família, Animação</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/qiVFLTR8SwQXxxEyRRt8YQK83l2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iYLKMV7PIBtFmtygRrhSiyzcVsF.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-277834-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-277834-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-277834-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-277834-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-277834.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Querendo descobrir mais sobre seu passado e ajudar a família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Acompanhada pelo lendário semideus Maui, Moana começa sua jornada em mar aberto, onde enfrenta terríveis criaturas marinhas e descobre histórias do submundo.</info>
 </item>
 
 <item>
-<title></title>
+<title>Guerreiras do K-Pop</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Animação, Fantasia, Ação, Comédia, Música, Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/iJSqkmLwgqj9MwARySBXMkYO7mG.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l3ycQYwWmbz7p8otwbomFDXIEhn.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-803796-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-803796-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-803796-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-803796-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76c27f7d37c3534c4007ce65001618e5c1cb3dc3$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-803796.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Quando não estão lotando estádios, as estrelas do K-pop Rumi, Mira e Zoey usam seus poderes secretos para proteger os fãs contra ameaças sobrenaturais.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Divertida Mente 2</title>
+<year>2024</year>
+<genre>Animação, Aventura, Comédia, Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/hGTxHEDQBa6AAuGWDrTpbJjEO0w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/coATv42PoiLqAFKStJiMZs2r6Zb.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022789-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022789-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022789-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022789-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3e1943be008338b6146bf916286cb839a40268b$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022789.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>"Divertida Mente 2", da Disney e da Pixar, retorna à mente da adolescente Riley, e o faz no momento em que a sala de comando está passando por uma demolição repentina para dar lugar a algo totalmente inesperado: novas emoções! Alegria, Tristeza, Raiva, Medo e Nojinho não sabem bem como reagir quando Ansiedade aparece, e tudo indica que ela não está sozinha.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Divertida Mente</title>
+<year>2015</year>
+<genre>Animação, Família, Aventura, Drama, Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/4Kg34KTlnoHvjLzD7ji2jUSouvD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-150540-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-150540-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-150540-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-150540-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3335411E7602E0B46197D6DEFF28C70F2964C81$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-150540.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Quando Riley, de 11 anos, se muda para uma nova cidade, suas Emoções - Alegria, Medo, Raiva, Nojinho e Tristeza trabalham juntas para ajudá-la na transição. Porém, uma série de eventos faz com que Alegria e Tristeza se envolvam em uma perigosa aventura que virará o mundo de Riley de cabeça para baixo.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Robô Selvagem</title>
+<year>2024</year>
+<genre>Animação, Ficção científica, Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/yNKJPSPZ5vJ7dsUV9TVyhEqnRMh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9mJ9dxCGpudxyBtlC0M9Y4pTyXN.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1184918-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1184918-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1184918-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1184918-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c8c3b53ef878fe2256fc9855d0d7d50683bc492$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1184918.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Um robô – unidade ROZZUM 7134, abreviadamente “Roz” – naufraga em uma ilha desabitada e deve aprender a se adaptar ao ambiente hostil, gradualmente construindo relacionamentos com os animais da ilha e se tornando o pai adotivo de um filhote de ganso órfão.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Super Mario Bros. O Filme</title>
+<year>2023</year>
+<genre>Família, Comédia, Aventura, Animação, Fantasia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-502356-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-502356-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-502356-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-502356-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86164ce78973832d51e267450c9de523b25de60c$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-502356.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Mufasa: O Rei Leão</title>
+<year>2024</year>
+<genre>Aventura, Família, Animação</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/iMVuv6Gz5fj7vZ51IjRF3AiW87y.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9FENncVpvhIjrQA0WcKZaFUd73Q.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-762509-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-762509-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-762509-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-762509-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c0b58e9c72b65f56f1da40e538dfcd404abf81d$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-762509.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Acompanhe a história épica da ascensão improvável do amado rei das Terras do Reino. Órfão e sozinho, Mufasa se perde até encontrar Taka, herdeiro de uma linhagem real. Isso dá início a uma jornada épica que testa os laços entre os dois enquanto enfrentam um inimigo mortal.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Elementos</title>
+<year>2023</year>
+<genre>Animação, Comédia, Família, Fantasia, Romance</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/gRkfQ25Hd5afFSzYN2zsIoM1XQS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-976573-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-976573-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-976573-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-976573-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed20ebd0a4950d10b79fe018268502055084c98a$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-976573.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Seu Nome</title>
+<year>2016</year>
+<genre>Animação, Romance, Drama</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/zteJkqfL00XsneIqgrUEeDIuY9k.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-372058-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-372058-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-372058-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-372058-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df6ca5a253de89643470081a36b52680f5d5c918$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-372058.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.</info>
 </item>
 
 <item>
-<title></title>
+<title>Elio</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Animação, Família, Comédia, Aventura, Ficção científica</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/fp6TIa2IW3YbWF7LQ63n6JDvB2V.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mBDoBHUZHHy9WG7dRFndjB8adhc.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022787-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022787-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022787-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022787-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1022787.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Elio, um garoto oprimido com uma imaginação fértil, acaba sendo transportado acidentalmente para o Comuniverso. Identificado por engano como o embaixador da Terra para o resto do universo, Elio precisará formar novos laços com excêntricas formas de vida alienígenas, sobreviver a uma série de tribulações terríveis e, de alguma forma, descobrir quem ele realmente está destinado a ser.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Flow ([COLOR LG]LEG[/COLOR])</title>
+<year>2024</year>
+<genre>Animação, Aventura, Fantasia, Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/imKSymKBK7o73sajciEmndJoVkR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-823219-4KL.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-823219-FHDL.mkv?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-823219-HDL.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-823219-SDL.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-823219.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Gato é um animal solitário, mas quando seu lar é destruído por uma grande inundação, ele encontra refúgio em um barco habitado por diversas espécies, tendo que se juntar a elas apesar das diferenças.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Homem-Aranha: Através do Aranhaverso</title>
+<year>2023</year>
+<genre>Animação, Ação, Aventura, Ficção científica</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/fUwfsPWEEdnSt29jIwJ5eVtySX6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-569094-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-569094-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-569094-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-569094-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0553cf78749bb6d1d76ab7d2c5ee9fe47b10d3b$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia601707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-569094..mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.</info>
 </item>
 
 <item>
-<title></title>
+<title>Kaiju No. 8: Missão de Reconhecimento</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Animação, Ação, Ficção científica</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/5xFbaAZIprcOD1iBP7vlQ08OM7c.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1326106-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1326106-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1326106-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1326106-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5096c0dd93817894ecdc529f329df7fc8fd3ccc9$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1326106.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>O filme Kaiju No. 8: Missão de Reconhecimento apresenta uma recapitulação da primeira temporada, seguido por um episódio especial original intitulado A Folga de Hoshina.</info>
 </item>
 
 <item>
-<title></title>
+<title>Predador: Assassino de Assassinos</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Animação, Ação, Ficção científica, Thriller</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/xz02mXRmFclUQhNnkXpwYHE6mVL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/a3F9cXjRH488qcOqFmFZwqawBMU.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1376434-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1376434-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1376434-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1376434-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f581025aec1e782a86c4cbba6a1f89d27a11dd80$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1376434.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Essa antologia animada original acompanha três dos guerreiros mais determinados da história da humanidade: uma pirata viking que guia o filho em uma busca sangrenta por vingança, um ninja no Japão feudal que se volta contra o irmão samurai em uma batalha brutal pela sucessão e um piloto da Segunda Guerra Mundial que voa para investigar uma ameaça sobrenatural à causa aliada.</info>
 </item>
 
 <item>
-<title></title>
+<title>Garfield – Fora de Casa</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Família, Comédia, Aventura, Animação</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/WbnxK16vL7tSJl35GlnICa0ztP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/P82NAcEsLIYgQtrtn36tYsj41m.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-748783-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-748783-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-748783-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-748783-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf2bccf225aadb3c670ebbaea740866c665ff373$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-748783.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Garfield, o mundialmente famoso gato de interior que odeia segundas-feiras e adora lasanha, está prestes a ter uma aventura selvagem ao ar livre! Depois de um reencontro inesperado com seu pai há muito perdido – o desalinhado gato de rua Vic – Garfield e seu amigo canino Odie são forçados a deixar sua vida perfeitamente mimada para se juntarem a Vic em um assalto hilariante e de alto risco.</info>
 </item>
 
 <item>
-<title></title>
+<title>Sneaks: De Pisante Novo</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Família, Comédia, Aventura, Animação</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/iIb4RSx102EfsiMbUg42c237hvy.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1084153-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1084153-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1084153-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1084153-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf2bccf225aadb3c670ebbaea740866c665ff373$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1084153.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Téo e Beca são um par de tênis de grife que vivem protegidos em sua caixa, até que Edson, um jovem humilde com o sonho de se tornar jogador de basquete, os ganha em um sorteio. Quando são roubados por um colecionador, o sonho de Edson é ameaçado e os tênis se separam. Determinado a reencontrar seu par, Téo se vê perdido nas ruas de Nova York, onde conhece Beto, um tênis de rua cheio de atitude. Juntos, embarcam em uma aventura repleta de surpresas, e Téo descobre que o mundo fora da caixa é muito maior e mais emocionante do que imaginava.
+</info>
 </item>
 
 <item>
-<title></title>
+<title>Memórias de um Caracol</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Animação, Drama, Comédia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/zeFRmFslWFp8GqbFfzUgwZb2ufW.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jl2YIADk391yc6Qjy9JhgCRkHJk.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1064486-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1064486-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1064486-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1064486-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1064486.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Grace Pudel é uma garota solitária que coleciona caracóis ornamentais e tem um enorme amor pelos livros. Ainda muito jovem, Grace foi separada do irmão gêmeo, o pirofagista Gilbert, e a partir daí, entrou em uma espiral contínua de ansiedade e angústia. Apesar dessas inúmeras dificuldades, a menina volta a encontrar inspiração e esperança quando inicia uma amizade duradoura com uma idosa excêntrica chamada Pinky, repleta de coragem e desejo de viver.</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Kung Fu Panda 4</title>
+<year>2024</year>
+<genre>Animação, Família, Ação, Comédia, Aventura, Fantasia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/vU5MZaZfdl6P7SRHGjpWYiNYa1t.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1011985-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1011985-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1011985-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1011985-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1011985.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Po está prestes a se tornar o novo líder espiritual do Vale da Paz, mas antes que possa fazer isso, ele deve encontrar um sucessor para se tornar o novo Dragão Guerreiro. Ele parece encontrar uma em Zhen, uma raposa com muitas habilidades promissoras, mas que não gosta muito da ideia de Po treiná-la.</info>
 </item>
 
 <item>
-<title></title>
+<title>Batman Ninja vs. Liga da Yakuza</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Animação, Ação</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/E0Kfd0UsphezvdhLVNtOTXzOLT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/e807jDKiFcntZS32ze88X6I96OD.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1297763-4K.mkv?cnt=0$$lsname= ASSISTIR EM 4K UHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1297763-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1297763-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1297763-SD.mkv?cnt=0$$lsname= ASSISTIR EM SD</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname= ASSISTIR EM TORRENT</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-1297763.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>
+<info>Nesta continuação de Batman Ninja, a Família Batman volta ao presente e descobre que o Japão desapareceu, e agora uma ilha gigante chamada “Hinomoto” flutua nos céus de Gotham City. No topo estão os Yakuza, um grupo de indivíduos superpoderosos que reinam sem honra ou humanidade e se parecem estranhamente com a Liga da Justiça. Agora, cabe a Batman e seus aliados salvar Gotham!</info>
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>A Caminho da Lua</title>
+<year>2020</year>
+<genre>Animação, Aventura, Família, Fantasia</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/uWZ3atqzyZ7GT1NrptLXwFI9vVb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/htBUhLSS7FfHtydgYxUWjL3J1Q1.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-560050-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-560050-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link> 
+<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-560050.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>    
+<info>Estimulada pelas histórias da mãe, Fei Fei decide construir uma nave espacial para ir até a Lua e comprovar a existência de uma lendária deusa.</info>
 </item>
 
 <item>
-<title></title>
+<title>Lilo & Stitch</title>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<genre>Família, Ficção científica, Comédia, Aventura</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/bLQN6DUNYN4NVzSY3Q53JwBRlgV.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tDTOvpZ6pvPBdqndE9xa90vDoqW.jpg</fanart>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-552524-FHD.mkv?cnt=0?cnt=0$$lsname= ASSISTIR EM FHD</link>
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-552524-HD.mkv?cnt=0$$lsname= ASSISTIR EM HD</link> 
+<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
+<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-552524.mkv?cnt=0$$lsname= ASSISTIR TRAILER</link>  
+<info>Stitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.</info>
 </item>
 
 <item>
