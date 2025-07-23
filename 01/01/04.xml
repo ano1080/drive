@@ -64,13 +64,12 @@
 </channel>
 
 <channel>
-<name></name>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<name>Batman: O Cavaleiro das Trevas (Animação) - Coleção</name>
+<genre>Animação, Ação, Ficção Científica, Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/iPrIkkA3EUTytoH1cBGWmEEYKyT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bNLLjc6NT80FmFknvHn8demDHhl.jpg</fanart>
+<info>Batman: O Cavaleiro das Trevas é um filme animado dividido em duas partes, uma adaptação da história em quadrinhos de 1986 de Frank Miller.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/01/04/248534.xml</externallink>
 </channel>
 
 <channel>
