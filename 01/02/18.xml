@@ -1,69 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> <!-- FILMES DE TERROR -->
 
-<item>
-<title>A Avó</title>
-<year>2022</year>
-<genre>Drama, Terror</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/t6sTd4xrODKmAQiGUW3BWM60PzS.jpg</fanart>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-661791-FHD.mkv$$lsname= ASSISTIR EM FHD</link>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-661791-HD.mkv$$lsname= ASSISTIR EM HD</link> 
-<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-661791.mkv$$lsname= ASSISTIR TRAILER</link> 
-<info>Susana deixa sua vida em Paris, onde trabalha como modelo, e retorna a Madri para cuidar de sua avó Pilar.</info>
-</item>
-
-<item>
-<title>A Babá</title>
-<year>2022</year>
-<genre>Terror, Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/h8UP8VbSsUVqtGRMpAJN5FPfSty.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/bWAdl3GJDBAxbChqPsWQZsHZgsK.jpg</fanart>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-843932-FHD.mkv$$lsname= ASSISTIR EM FHD</link>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-843932-HD.mkv$$lsname= ASSISTIR EM HD</link> 
-<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
-<info>Aisha, uma babá imigrante, monta uma nova vida em Nova York, enquanto cuida do filho de uma família do Upper East Side. Ela é forçada a enfrentar uma verdade oculta que ameaça destruir seu sonho americano.</info>
-</item>
-
-<item>
-<title>A Casa da Morte</title>
-<year>2022</year>
-<genre>Terror</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/bc1q95nh6vrusju7k683kv9c3m4duj6elddgpvv9zd.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/vywA7IuvJ4XH4JaYs3WX0WYUPGl.jpg</fanart>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-982317-FHD.mkv$$lsname= ASSISTIR EM FHD</link>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-982317-HD.mkv$$lsname= ASSISTIR EM HD</link> 
-<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-982317.mkv$$lsname= ASSISTIR TRAILER</link>  
-<info>Rachel, seu marido Dylan, seu irmão Marcus e sua amiga Hannah são uma equipe de limpeza de cenas de crimes, que se reúnem para fazer um grande trabalho em uma cena de assassinato sangrenta. Depois que eles começam a limpar e algumas coisas estranhas começam a acontecer, o grupo luta para escapar da casa depois de ficar preso por um antigo demônio nórdico que está determinado a deixá-los loucos.</info>
-</item>
-
-<item>
-<title>A Casa dos Mortos</title>
-<year>2015</year>
-<genre>Thriller, Terro</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/ct33oot4pArg8hZ87wEeG7ojyTz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/mgGQbf8trfPw7VVI2WmD8svPO7Y.jpg</fanart>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-234212-FHD.mkv$$lsname= ASSISTIR EM FHD</link>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-234212-HD.mkv$$lsname= ASSISTIR EM HD</link> 
-<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-234212.mkv$$lsname= ASSISTIR TRAILER</link> 
-<info>Um massacre acontece numa casa abandonada deixando cinco estudantes mortos. Um policial (Frank Grillo) e uma psicóloga (Maria Bello) vão investigar o caso., que ocorreu enquanto os jovens tentavam evocar fantasmas.</info>
-</item>
-
-<item>
-<title>A Chorona</title>
-<year>2019</year>
-<genre>Thriller, Terror, Drama</genre>
-<thumbnail>https://image.tmdb.org/t/p/original/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/ydALWPYgQTqWhjEkkfMb1mll5Ix.jpg</fanart>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-617708-FHD.mkv$$lsname= ASSISTIR EM FHD</link>
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-617708-HD.mkv$$lsname= ASSISTIR EM HD</link> 
-<link>plugin://plugin.video.elementum/play?uri=magnetk$$lsname= ASSISTIR EM TORRENT</link> 
-<link>https://ia801707.us.archive.org/2/items/f-4-4-2-2-9-9-/F-617708.mkv$$lsname= ASSISTIR TRAILER</link> 
-<info>O general aposentado, Enrique, finalmente enfrenta julgamento pelo massacre genocida de milhares de maias décadas atrás. Enquanto uma horda de manifestantes raivosos ameaça invadir seu lar opulento, as mulheres da casa – sua esposa arrogante, filha em conflito e neta precoce – refletem sobre sua responsabilidade de proteger Enrique, errático e senil, contra as verdades devastadoras que são reveladas publicamente enquanto começam a sentir uma força sobrenatural em busca de vingança por seus crimes. Enquanto isso, grande parte dos empregados da família foge, deixando apenas a governanta leal Valeriana até que uma misteriosa jovem indígena chega…</info>
-</item>
 
 <item>
 <title></title>
@@ -12648,12 +12585,14 @@
 </item>
 
 <item>
-<title></title>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>Sangue Possuído</title>
+<year>2024</year>
+<genre>Thriller, Terror</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/obWYBG42GC83AEm2FKyuinqtziK.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/20JKnQSktxL3BNL9pg3iVDhFOVV.jpg</fanart>
+<link>https://ia601407.us.archive.org/26/items/f-1275003-/F-1275003-FHD.mkv$$lsname= ASSISTIR</link>
+<link>https://ia601407.us.archive.org/26/items/f-1275003-/F-1275003.mkv$$lsname= ASSISTIR TRAILER</link>
+<info>Depois que uma jovem é encontrada morta em uma comunidade religiosa isolada nas montanhas, um grupo de adolescentes decide lutar contra os espíritos malignos que acreditam tê-la matado, abraçando sua própria natureza sombria.</info>
 </item>
 
 
