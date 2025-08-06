@@ -1,0 +1,152 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+	    9: #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E FHD
+	   11: #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E HD
+	   13: #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E SD
+	   25: #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://logos.imperioapps.xyz/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC FHD
+	   27: #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://logos.imperioapps.xyz/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC HD
+	   29: #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://logos.imperioapps.xyz/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC SD
+	   55: #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://logos.imperioapps.xyz/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN FHD
+	   57: #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logos.imperioapps.xyz/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN HD
+	   59: #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://logos.imperioapps.xyz/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN SD
+	  209: #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://logos.imperioapps.xyz/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil FHD
+	  211: #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://logos.imperioapps.xyz/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil HD
+	  213: #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://logos.imperioapps.xyz/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil SD
+	  265: #EXTINF:-1 tvg-id="" tvg-name="Cine Brasil TV FHD" tvg-logo="https://logos.imperioapps.xyz/CINEBRASILTV.png" group-title="♦️Canais | Filmes e Séries",Cine Brasil TV FHD
+	  267: #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://logos.imperioapps.xyz/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax FHD
+	  269: #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.imperioapps.xyz/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax HD
+	  271: #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://logos.imperioapps.xyz/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax SD
+	  507: #EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts FHD" tvg-logo="https://logos.imperioapps.xyz/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts FHD
+	  509: #EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts HD" tvg-logo="https://logos.imperioapps.xyz/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts HD
+	 1017: #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="https://logos.imperioapps.xyz/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix FHD
+	 1019: #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://logos.imperioapps.xyz/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix HD
+	 1021: #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://logos.imperioapps.xyz/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix SD
+	 1059: #EXTINF:-1 tvg-id="" tvg-name="My Time Movie HD" tvg-logo="https://logos.imperioapps.xyz/MYTIMEMOVIENETWORK.png" group-title="♦️Canais | Filmes e Séries",My Time Movie HD
+	 1061: #EXTINF:-1 tvg-id="bis.br" tvg-name="MyTime Movie Network Brazil HD" tvg-logo="http://aguacomgas.shop:80/images/cb5b63af2b9fdba4c04cdad9d60e81cb.png" group-title="♦️Canais | Filmes e Séries",MyTime Movie Network Brazil HD
+	 1137: #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network FHD" tvg-logo="https://logos.imperioapps.xyz/PARAMOUNT.png" group-title="♦️Canais | Filmes e Séries",Paramount Network FHD
+	 1139: #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network HD" tvg-logo="https://logos.imperioapps.xyz/PARAMOUNT.png" group-title="♦️Canais | Filmes e Séries",Paramount Network HD
+	 1141: #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network SD" tvg-logo="https://logos.imperioapps.xyz/PARAMOUNT.png" group-title="♦️Canais | Filmes e Séries",Paramount Network SD
+	 1157: #EXTINF:-1 tvg-id="" tvg-name="Playpoca Filmes" tvg-logo="https://logos.imperioapps.xyz/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Filmes
+	 1159: #EXTINF:-1 tvg-id="" tvg-name="Playpoca Series" tvg-logo="https://logos.imperioapps.xyz/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Series
+	 1367: #EXTINF:-1 tvg-id="" tvg-name="Runtime Ação" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Ação
+	 1369: #EXTINF:-1 tvg-id="trutv.br" tvg-name="Runtime Brasil HD" tvg-logo="http://aguacomgas.shop:80/images/e51f41ffbb62c9c69d3f8fa87c843e45.png" group-title="♦️Canais | Filmes e Séries",Runtime Brasil HD
+	 1371: #EXTINF:-1 tvg-id="" tvg-name="Runtime Cine Espanto" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Cine Espanto
+	 1373: #EXTINF:-1 tvg-id="" tvg-name="Runtime Comédia" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Comédia
+	 1375: #EXTINF:-1 tvg-id="" tvg-name="Runtime Crime" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Crime
+	 1377: #EXTINF:-1 tvg-id="" tvg-name="Runtime Família" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Família
+	 1379: #EXTINF:-1 tvg-id="" tvg-name="Runtime Movie Sphere" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Movie Sphere
+	 1381: #EXTINF:-1 tvg-id="" tvg-name="Runtime Romance" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Romance
+	 1383: #EXTINF:-1 tvg-id="" tvg-name="Runtime TG Brasil" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime TG Brasil
+	 1385: #EXTINF:-1 tvg-id="" tvg-name="Runtime TV & Filmes" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime TV & Filmes
+	 1537: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony FHD" tvg-logo="https://logos.imperioapps.xyz/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony FHD
+	 1539: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="https://logos.imperioapps.xyz/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony HD
+	 1541: #EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="http://97j91.xyz/images/sonymovies.png" group-title="♦️Canais | Filmes e Séries",Sony Movies
+	 1543: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony One Classics" tvg-logo="http://aguacomgas.shop:80/images/ae25f6ab206706fce5d4a35c50b66f88.png" group-title="♦️Canais | Filmes e Séries",Sony One Classics
+	 1545: #EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções" tvg-logo="http://97j91.xyz/images/sonyone.png" group-title="♦️Canais | Filmes e Séries",Sony One Emoções
+	 1547: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony SD" tvg-logo="https://logos.imperioapps.xyz/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony SD
+	 1549: #EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://logos.imperioapps.xyz/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space FHD
+	 1551: #EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://logos.imperioapps.xyz/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space HD
+	 1553: #EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://logos.imperioapps.xyz/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space SD
+	 1579: #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal FHD
+	 1581: #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal HD
+	 1583: #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal SD" tvg-logo="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal SD
+	 1589: #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://logos.imperioapps.xyz/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM FHD
+	 1591: #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://logos.imperioapps.xyz/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM HD
+	 1593: #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://logos.imperioapps.xyz/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM SD
+	 1649: #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://logos.imperioapps.xyz/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC FHD
+	 1651: #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://logos.imperioapps.xyz/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC HD
+	 1653: #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://logos.imperioapps.xyz/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC SD
+	 1657: #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://logos.imperioapps.xyz/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT FHD
+	 1659: #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://logos.imperioapps.xyz/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT HD
+	 1661: #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="https://logos.imperioapps.xyz/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas FHD
+	 1663: #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="https://logos.imperioapps.xyz/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas HD
+	 1665: #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="https://logos.imperioapps.xyz/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas SD
+	 1667: #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://logos.imperioapps.xyz/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT SD
+	 1671: #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="https://logos.imperioapps.xyz/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series FHD
+	 1673: #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="https://logos.imperioapps.xyz/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series HD
+	 1675: #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="https://logos.imperioapps.xyz/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series SD
+	 1781: #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="https://logos.imperioapps.xyz/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV FHD
+	 1783: #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="https://logos.imperioapps.xyz/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV HD
+	 1785: #EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://i.imgur.com/sfPwXQg.png" group-title="♦️Canais | Filmes e Séries",Universal Premiere
+	 1789: #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV SD" tvg-logo="https://logos.imperioapps.xyz/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV SD
+	 1805: #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel FHD
+	 1807: #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel HD
+	 1809: #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel SD" tvg-logo="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel SD
+Pesquisa "Canais | Filmes e Séries" (74 ocorrências em 3 arquivos de 34 procurados) [Normal]
+  C:\Users\FLIXBOX\AppData\Roaming\Kodi\userdata\favourites.xml (1 ocorrências)
+	 2:     <favourite name="Canais | Filmes e Séries">ActivateWindow(10025,"plugin://plugin.video.gifpeg.tv/?fanart&amp;mode=57&amp;name=%e2%99%a6%ef%b8%8fCanais%20%7c%20Filmes%20e%20S%c3%a9ries&amp;url=https%3a%2f%2fdrive.usercontent.google.com%2fdownload%3fid%3d1KPwjxeVsHvHQtsdgkxDosM_Ng7mnrW6s%26export%3ddownload%26confirm%3d",return)</favourite>
+  C:\FLIXBOX BASE\system\library\01\03\01.xml (1 ocorrências)
+	 3: 	<label>CANAIS | FILMES E SÉRIES</label>
+  C:\Users\FLIXBOX\Downloads\Servidor3.xml (72 ocorrências)
+	    9: #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E FHD
+	   11: #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E HD
+	   13: #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="https://logos.imperioapps.xyz/A&E.png" group-title="♦️Canais | Filmes e Séries",A&E SD
+	   25: #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://logos.imperioapps.xyz/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC FHD
+	   27: #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://logos.imperioapps.xyz/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC HD
+	   29: #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://logos.imperioapps.xyz/AMC.png" group-title="♦️Canais | Filmes e Séries",AMC SD
+	   55: #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://logos.imperioapps.xyz/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN FHD
+	   57: #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logos.imperioapps.xyz/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN HD
+	   59: #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://logos.imperioapps.xyz/AXN.png" group-title="♦️Canais | Filmes e Séries",AXN SD
+	  209: #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://logos.imperioapps.xyz/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil FHD
+	  211: #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://logos.imperioapps.xyz/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil HD
+	  213: #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://logos.imperioapps.xyz/CANAL_BRASIL.png" group-title="♦️Canais | Filmes e Séries",Canal Brasil SD
+	  265: #EXTINF:-1 tvg-id="" tvg-name="Cine Brasil TV FHD" tvg-logo="https://logos.imperioapps.xyz/CINEBRASILTV.png" group-title="♦️Canais | Filmes e Séries",Cine Brasil TV FHD
+	  267: #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://logos.imperioapps.xyz/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax FHD
+	  269: #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://logos.imperioapps.xyz/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax HD
+	  271: #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://logos.imperioapps.xyz/CINEMAX.png" group-title="♦️Canais | Filmes e Séries",Cinemax SD
+	  507: #EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts FHD" tvg-logo="https://logos.imperioapps.xyz/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts FHD
+	  509: #EXTINF:-1 tvg-id="film.arts.br" tvg-name="Film & Arts HD" tvg-logo="https://logos.imperioapps.xyz/FILM&ART.png" group-title="♦️Canais | Filmes e Séries",Film & Arts HD
+	 1017: #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="https://logos.imperioapps.xyz/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix FHD
+	 1019: #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://logos.imperioapps.xyz/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix HD
+	 1021: #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://logos.imperioapps.xyz/MEGAPIX.png" group-title="♦️Canais | Filmes e Séries",Megapix SD
+	 1059: #EXTINF:-1 tvg-id="" tvg-name="My Time Movie HD" tvg-logo="https://logos.imperioapps.xyz/MYTIMEMOVIENETWORK.png" group-title="♦️Canais | Filmes e Séries",My Time Movie HD
+	 1061: #EXTINF:-1 tvg-id="bis.br" tvg-name="MyTime Movie Network Brazil HD" tvg-logo="http://aguacomgas.shop:80/images/cb5b63af2b9fdba4c04cdad9d60e81cb.png" group-title="♦️Canais | Filmes e Séries",MyTime Movie Network Brazil HD
+	 1137: #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network FHD" tvg-logo="https://logos.imperioapps.xyz/PARAMOUNT.png" group-title="♦️Canais | Filmes e Séries",Paramount Network FHD
+	 1139: #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network HD" tvg-logo="https://logos.imperioapps.xyz/PARAMOUNT.png" group-title="♦️Canais | Filmes e Séries",Paramount Network HD
+	 1141: #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Network SD" tvg-logo="https://logos.imperioapps.xyz/PARAMOUNT.png" group-title="♦️Canais | Filmes e Séries",Paramount Network SD
+	 1157: #EXTINF:-1 tvg-id="" tvg-name="Playpoca Filmes" tvg-logo="https://logos.imperioapps.xyz/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Filmes
+	 1159: #EXTINF:-1 tvg-id="" tvg-name="Playpoca Series" tvg-logo="https://logos.imperioapps.xyz/PLAYPOCA.png" group-title="♦️Canais | Filmes e Séries",Playpoca Series
+	 1367: #EXTINF:-1 tvg-id="" tvg-name="Runtime Ação" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Ação
+	 1369: #EXTINF:-1 tvg-id="trutv.br" tvg-name="Runtime Brasil HD" tvg-logo="http://aguacomgas.shop:80/images/e51f41ffbb62c9c69d3f8fa87c843e45.png" group-title="♦️Canais | Filmes e Séries",Runtime Brasil HD
+	 1371: #EXTINF:-1 tvg-id="" tvg-name="Runtime Cine Espanto" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Cine Espanto
+	 1373: #EXTINF:-1 tvg-id="" tvg-name="Runtime Comédia" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Comédia
+	 1375: #EXTINF:-1 tvg-id="" tvg-name="Runtime Crime" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Crime
+	 1377: #EXTINF:-1 tvg-id="" tvg-name="Runtime Família" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Família
+	 1379: #EXTINF:-1 tvg-id="" tvg-name="Runtime Movie Sphere" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Movie Sphere
+	 1381: #EXTINF:-1 tvg-id="" tvg-name="Runtime Romance" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime Romance
+	 1383: #EXTINF:-1 tvg-id="" tvg-name="Runtime TG Brasil" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime TG Brasil
+	 1385: #EXTINF:-1 tvg-id="" tvg-name="Runtime TV & Filmes" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="♦️Canais | Filmes e Séries",Runtime TV & Filmes
+	 1537: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony FHD" tvg-logo="https://logos.imperioapps.xyz/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony FHD
+	 1539: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="https://logos.imperioapps.xyz/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony HD
+	 1541: #EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="http://97j91.xyz/images/sonymovies.png" group-title="♦️Canais | Filmes e Séries",Sony Movies
+	 1543: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony One Classics" tvg-logo="http://aguacomgas.shop:80/images/ae25f6ab206706fce5d4a35c50b66f88.png" group-title="♦️Canais | Filmes e Séries",Sony One Classics
+	 1545: #EXTINF:-1 tvg-id="" tvg-name="Sony One Emoções" tvg-logo="http://97j91.xyz/images/sonyone.png" group-title="♦️Canais | Filmes e Séries",Sony One Emoções
+	 1547: #EXTINF:-1 tvg-id="sony.br" tvg-name="Sony SD" tvg-logo="https://logos.imperioapps.xyz/SONY.png" group-title="♦️Canais | Filmes e Séries",Sony SD
+	 1549: #EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://logos.imperioapps.xyz/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space FHD
+	 1551: #EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://logos.imperioapps.xyz/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space HD
+	 1553: #EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://logos.imperioapps.xyz/SPACE.png" group-title="♦️Canais | Filmes e Séries",Space SD
+	 1579: #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal FHD
+	 1581: #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal HD
+	 1583: #EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal SD" tvg-logo="https://logos.imperioapps.xyz/STUDIO_UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Studio Universal SD
+	 1589: #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://logos.imperioapps.xyz/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM FHD
+	 1591: #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://logos.imperioapps.xyz/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM HD
+	 1593: #EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://logos.imperioapps.xyz/TCM.png" group-title="♦️Canais | Filmes e Séries",TCM SD
+	 1649: #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://logos.imperioapps.xyz/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC FHD
+	 1651: #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://logos.imperioapps.xyz/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC HD
+	 1653: #EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://logos.imperioapps.xyz/TLC.png" group-title="♦️Canais | Filmes e Séries",TLC SD
+	 1657: #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://logos.imperioapps.xyz/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT FHD
+	 1659: #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://logos.imperioapps.xyz/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT HD
+	 1661: #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas FHD" tvg-logo="https://logos.imperioapps.xyz/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas FHD
+	 1663: #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas HD" tvg-logo="https://logos.imperioapps.xyz/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas HD
+	 1665: #EXTINF:-1 tvg-id="tbs.br" tvg-name="TNT Novelas SD" tvg-logo="https://logos.imperioapps.xyz/TNT_NOVELAS.png" group-title="♦️Canais | Filmes e Séries",TNT Novelas SD
+	 1667: #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://logos.imperioapps.xyz/TNT.png" group-title="♦️Canais | Filmes e Séries",TNT SD
+	 1671: #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series FHD" tvg-logo="https://logos.imperioapps.xyz/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series FHD
+	 1673: #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series HD" tvg-logo="https://logos.imperioapps.xyz/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series HD
+	 1675: #EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series SD" tvg-logo="https://logos.imperioapps.xyz/TNT_SERIES.png" group-title="♦️Canais | Filmes e Séries",TNT Series SD
+	 1781: #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV FHD" tvg-logo="https://logos.imperioapps.xyz/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV FHD
+	 1783: #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV HD" tvg-logo="https://logos.imperioapps.xyz/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV HD
+	 1785: #EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://i.imgur.com/sfPwXQg.png" group-title="♦️Canais | Filmes e Séries",Universal Premiere
+	 1789: #EXTINF:-1 tvg-id="universal.br" tvg-name="Universal TV SD" tvg-logo="https://logos.imperioapps.xyz/UNIVERSAL.png" group-title="♦️Canais | Filmes e Séries",Universal TV SD
+	 1805: #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel FHD" tvg-logo="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel FHD
+	 1807: #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel HD
+	 1809: #EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel SD" tvg-logo="https://logos.imperioapps.xyz/WARNER_CHANNEL.png" group-title="♦️Canais | Filmes e Séries",Warner Channel SD
