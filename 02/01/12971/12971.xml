@@ -5,13 +5,32 @@
 <channel>
 <name>Saga dos Saiyajins</name>
 <year>1989</year>
-<genre>Sci-Fi & Fantasy, Mistério, Comédia</genre>
+<genre>Animação, Sci-Fi & Fantasy, Action & Adventure</genre>
 <thumbnail>https://image.tmdb.org/t/p/original/6iyu8rF9lRGWmDC8UnNlvNlJjRB.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/7sWJg75argLzaIt6nv3wQt070Yt.jpg</fanart>
 <info>Após anos de paz desde a derrota de Piccolo Daimaoh, Goku agora vive tranquilamente com sua esposa Chi-Chi e seu filho, Gohan. Mas tudo muda quando um misterioso guerreiro chamado Raditz chega à Terra revelando que é irmão de Goku e que ambos pertencem à raça guerreira dos Saiyajins, um povo brutal que conquista planetas.</info>
 <externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/119051/119051-01.xml</externallink>
 </channel>
 
+<channel>
+<name>Saga de Namekusei</name>
+<year>1990</year>
+<genre>Animação, Sci-Fi & Fantasy, Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/nFI492Jd9cMvG5Y0wfAHbe0lpXk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7sWJg75argLzaIt6nv3wQt070Yt.jpg</fanart>
+<info>Depois da batalha contra os Saiyajins, os Guerreiros Z viajam até o planeta Namekusei em busca das Esferas do Dragão de lá para reviver os amigos mortos. Porém, o terrível tirano Freeza também está atrás das esferas, com o objetivo de conquistar a imortalidade.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/119051/119051-01.xml</externallink>
+</channel>
+
+<channel>
+<name>Saga de Freeza</name>
+<year>1991</year>
+<genre>Animação, Sci-Fi & Fantasy, Action & Adventure</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/qrpK9feifrOiUP0H0XJvXmW1fJq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7sWJg75argLzaIt6nv3wQt070Yt.jpg</fanart>
+<info>Todas as sete Esferas do Dragão de Namekusei foram reunidas e o dragão Porunga foi convocado. Goku e seus amigos devem impedir Freeza de realizar seu desejo de imortalidade. Para derrotar esse inimigo monstruoso, um Super Saiyajin deve surgir!</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/119051/119051-01.xml</externallink>
+</channel>
 
 
 <channel>
