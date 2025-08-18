@@ -23,13 +23,13 @@
 </channel>
 
 <channel>
-<name></name>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<name>Dexter</name>
+<year>2006</year>
+<genre>Crime, Drama, Mistério</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/5DHlhR5WHDFGkM5agZqfrtR7oDX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oEHGX6jHpdKvJIAQ23WK0gzgN3d.jpg</fanart>
+<info>Renomado funcionário da Polícia de Miami, Dexter esconde de todos uma segunda identidade: ele é um assassino em série que mata os criminosos que a polícia não consegue prender.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/02/01/1405/1405.xml</externallink>
 </channel>
 
 <channel>
