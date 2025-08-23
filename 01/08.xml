@@ -22,13 +22,13 @@
 </channel>
 
 <channel>
-<name></name>
+<name>Jurassic Park</name>
 <year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<externallink></externallink>
+<genre>Aventura, Ação, Suspense, Ficção Científica</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/63S4L7p7ljvKFFUuuaWKo8mHxBY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/njFixYzIxX8jsn6KMSEtAzi4avi.jpg</fanart>
+<info>Uma série americana de filmes de aventura de ficção científica com base no romance do mesmo nome de Michael Crichton. Os filmes se centram na ilustre Isla Nublar, perto da Costa Rica, na Costa do Pacífico Centro-Americana, onde um filantropo bilionário e uma pequena equipe de cientistas genéticos criaram um parque de diversões de dinossauros clonados.</info>
+<externallink>https://raw.githubusercontent.com/ano1080/drive/refs/heads/main/01/08/328.xml</externallink>
 </channel>
 
 <channel>
