@@ -3,12 +3,11 @@
 
 
 <channel>
-<name></name>
-<year>2025</year>
-<genre></genre>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<name>Angry Birds</name>
+<genre>Aventura, Animação, Comédia, Família</genre>
+<thumbnail>https://image.tmdb.org/t/p/original/ehoZnL5usVagZOJ2VccmqZKa8in.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v46tzzYiG2FIXqtuuo1OLSjOLuQ.jpg</fanart>
+<info>Coletânea de filmes baseados na série de games Angry Birds.</info>
 <externallink></externallink>
 </channel>
 
